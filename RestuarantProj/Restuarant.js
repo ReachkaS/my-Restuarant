@@ -11,7 +11,7 @@ let delBtn = document.querySelectorAll(".delBtn");
 
 //headmenu
 function getLogo() {
-  menuLogo.innerHTML += `<a href=""><img src="/bg-01.png" alt="" class="w-16 md:w-32 lg:w-48" /><h3>Food&Drink</h3></a> `;
+  menuLogo.innerHTML += `<a href=""><img src="/RestuarantProj/bg-01.png" alt="" class="w-16 md:w-32 lg:w-48" /><h3>Food&Drink</h3></a> `;
 }
 getLogo();
 function getBar() {
@@ -88,19 +88,19 @@ document.querySelector(".cart-bar").addEventListener("click", function () {
 function getCon() {
   const cont = [
     {
-      img: "/breads-1867459_640.jpg",
+      img: "/RestuarantProj/breads-1867459_640.jpg",
       title: "Bread",
     },
     {
-      img: "/b1.webp",
+      img: "/RestuarantProj/b1.webp",
       title: "Dissert",
     },
     {
-      img: "/drink1.webp",
+      img: "/RestuarantProj/drink1.webp",
       title: "Drink",
     },
     {
-      img: "/pasta-1181189_1280.jpg",
+      img: "/RestuarantProj/pasta-1181189_1280.jpg",
       title: "Food",
     },
   ];
@@ -126,7 +126,7 @@ function getCon() {
 getCon();
 
 //showProduct
-const url = "http://172.16.0.38:62842/Restuarant.json";
+const url = "http://172.16.0.38:63094/RestuarantProj/Restuarant.json";
 async function getProduct() {
   const response = await fetch(url);
   const product = await response.json();

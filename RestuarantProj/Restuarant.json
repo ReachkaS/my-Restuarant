@@ -1,99 +1,99 @@
 [
     {
-      "img": "/b1.webp",
+      "img": "/RestuarantProj/b1.webp",
       "title": "Bread1",
       "price": "1 0",
       "code": "#001"
     },
     {
-      "img": "/9c608a_a5eaf3dd3106463e8d564bc702101b72.webp",
+      "img": "/RestuarantProj/9c608a_a5eaf3dd3106463e8d564bc702101b72.webp",
       "title": "Bread2",
       "price": "1 2",
       "code": "#002"
     },
     {
-      "img": "/breads-1867459_640.jpg",
+      "img": "/RestuarantProj/breads-1867459_640.jpg",
       "title": "Bread3",
       "price": "1 5",
       "code": "#003"
     },
     {
-      "img": "/bread4.jpg",
+      "img": "/RestuarantProj/bread4.jpg",
       "title": "Bread4",
       "price": "1 3",
       "code": "#004"
     },
   
     {
-      "img": "/drink1.webp",
+      "img": "/RestuarantProj/drink1.webp",
       "title": "Drink1",
       "price": "1 0",
       "code": "#005"
     },
     {
-      "img": "/drink2.jpg",
+      "img": "/RestuarantProj/drink2.jpg",
       "title": "Drink2",
       "price": "1 2",
       "code": "#006"
     },
     {
-      "img": "/drink3.jpg",
+      "img": "/RestuarantProj/drink3.jpg",
       "title": "Drink3",
       "price": "1 5",
       "code": "#007"
     },
     {
-      "img": "/drink4.jpg",
+      "img": "/RestuarantProj/drink4.jpg",
       "title": "Drink4",
       "price": "1 1",
       "code": "#008"
     },
   
     {
-      "img": "/c837a6_07a8a45350a744f6bc9c6eb90c5fed19~mv2.webp",
+      "img": "/RestuarantProj/c837a6_07a8a45350a744f6bc9c6eb90c5fed19~mv2.webp",
       "title": "Dissert1",
       "price": "1 5",
       "code": "#009"
     },
     {
-      "img": "/c837a6_680019c51a1046b68392f97a7bc16bb7~mv2.webp",
+      "img": "/RestuarantProj/c837a6_680019c51a1046b68392f97a7bc16bb7~mv2.webp",
       "title": "Dissert2",
       "price": "1 1",
       "code": "#009"
     },
     {
-      "img": "/c837a6_bdedac8367364251ab8da1da245bff65~mv2.webp",
+      "img": "/RestuarantProj/c837a6_bdedac8367364251ab8da1da245bff65~mv2.webp",
       "title": "Dissert3",
       "price": "1 5",
       "code": "#010"
     },
     {
-      "img": "/dis4.jpg",
+      "img": "/RestuarantProj/dis4.jpg",
       "title": "Dissert4",
       "price": "1 1",
       "code": "#011"
     },
   
     {
-      "img": "/f1.jpg",
+      "img": "/RestuarantProj/f1.jpg",
       "title": "Food1",
       "price": "3 0",
       "code": "#012"
     },
     {
-      "img": "/f2.jpg",
+      "img": "/RestuarantProj/f2.jpg",
       "title": "Food2",
       "price": "1 1",
       "code": "#013"
     },
     {
-      "img": "/f3.jpg",
+      "img": "/RestuarantProj/f3.jpg",
       "title": "Food3",
       "price": "1 8",
       "code": "#014"
     },
     {
-      "img": "/f4.jpg",
+      "img": "/RestuarantProj/f4.jpg",
       "title": "Food4",
       "price": "1 5",
       "code": "#015"
